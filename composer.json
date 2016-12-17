@@ -1,7 +1,7 @@
 {
   "name": "romankarkachev/yii2-homer-admin",
   "description": "HOMER - Responsive Admin Theme Bootstrap 3 template",
-  "keywords": ["template", "yii2", "homer-admin", "bootstrap"],
+  "keywords": ["template", "yii2", "homer-admin", "bootstrap 3"],
   "minimum-stability": "dev",
   "type": "yii2-extension",
   "license": "BSD-3-Clause",
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "romankarkachev\\homer-admin\\": ""
+      "romankarkachev\\": ""
     }
   }
 }
